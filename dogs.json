@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "breed": "pit bull",
+      "imageUrl": "https://react-interview.github.io/dog-data/images/pit-bull.jpg"
+    },
+    {
+      "breed": "husky",
+      "imageUrl": "https://react-interview.github.io/dog-data/images/husky.jpg"
+    },
+    {
+      "breed": "poodle",
+      "imageUrl": "https://react-interview.github.io/dog-data/images/poodle.jpg"
+    },
+    {
+      "breed": "shih tzu",
+      "imageUrl": "https://react-interview.github.io/dog-data/images/shih-tzu.jpg"
+    },
+    {
+      "breed": "shiba inu",
+      "imageUrl": "https://react-interview.github.io/dog-data/images/shiba-inu.jpg"
+    },
+    {
+      "breed": "collie",
+      "imageUrl": "https://react-interview.github.io/dog-data/images/collie.jpg"
+    }
+  ]
+}
